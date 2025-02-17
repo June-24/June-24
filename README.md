@@ -1,6 +1,6 @@
 ## Hi there, I'm Junaid! 👋
-- 🌱 I’m currently learning Generative Models like GANs.
-- 👯 I’m looking to collaborate on Fullstack AI/ML Based Projects.
+- 🌱 I’m currently Working on Computational BioChemistry! Specifically on Anti-Cathepsin Drug Selection.
+- 👯 I’m looking to collaborate on Interdisciplinary AI/ML Projects.
 - 💬 Ask me about anything!
 - 📫 How to reach me: mj21csb0b36@student.nitw.ac.in
 # 💻 Tech Stack:
