@@ -1,5 +1,6 @@
 ## Hi there, I'm Junaid! 👋
 - 🌱 I’m currently Learning to Implement and fine tune LLMs.
+- 🎓 I'm pursuing my Master of Science in Applied Computing at the Univeristy of Toronto.
 - 👯 I’m looking to collaborate on Interdisciplinary AI/ML Projects.
 - 💬 Ask me about anything!
 - 📫 How to reach me: MohammedJunaid.AnwarQader@mail.utoronto.ca
